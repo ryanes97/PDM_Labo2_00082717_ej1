@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="MT1">60dp</dimen>
+    <dimen name="MT2">50dp</dimen>
+    <dimen name="MB">20dp</dimen>
+</resources>
